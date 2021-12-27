@@ -25,3 +25,5 @@ neuwo_data json key contains:
 - Mapping certain Neuwo keyword suggestions into choosen Hacklab Jkl taxonomy structure
   - Could re-use graphical yEd mapping method as in https://github.com/jasalt/robotag or something
 - Finding way to utilise https://taxopress.com or other tag tools on Wordpress when creating blog content in the future
+
+Included simple example script `statistics_test.py` accessing json data file via TinyDB. 
