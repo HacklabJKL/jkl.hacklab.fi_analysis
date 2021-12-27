@@ -6,6 +6,7 @@ Database file is processed in `process_posts.py` via [Neuwo.ai](https://neuwo.ai
 
 There was Unicode UTF-8 encoding problems on Mac, replaced \u00f6 \u00e4 characters with ö and ä on text editor.
 
+# Neuwo API results 
 neuwo_data json key contains:
 
 - tags: Keywords in Finnish
@@ -17,6 +18,8 @@ neuwo_data json key contains:
     - ID
     - relevance: relevance score in decimal 0-1
 - brand_safety: used for marketing purposes, something like indicating nsfw-content
+
+![Demonstrative image](/assets/readme-image.jpg)
 
 # Ideas
 
